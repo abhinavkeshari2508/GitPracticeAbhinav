@@ -1,3 +1,3 @@
 # GitPracticeAbhinav
-
-This is a hypothetical scenario
+To check diff
+diff staged
